@@ -1,7 +1,6 @@
 ![MasterHead](https://suavesol.net/wp-content/uploads/2020/04/software-it-packages-banner.png)
 <h1 align="center">Hi 👋, I'm Ayman Hajjar</h1>
 <h3 align="center">A passionate web developer from Lebanon</h3>
-<img src=“https://suavesol.net/wp-content/uploads/2020/04/software-it-packages-banner.png">
 
  
                                                                                                                            
