@@ -6,7 +6,7 @@
                                                                                                                            
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aymanhajjar&label=Profile%20views&color=0e75b6&style=flat" alt="aymanhajjar" /> </p>
 
-- 🌱 I’m currently learning **PHP, Laravel, Node Js**
+- 🌱 I’m currently learning **PHP, Laravel, Angular**
 
 - 💬 Ask me about **Django, React, Javascript**
 
